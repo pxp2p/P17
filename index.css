@@ -127,7 +127,7 @@ h1 {
 }
 
 .index_2 {
-    background-color: rgb(92, 89, 89);
+    background-color: #0000;
     padding: 8px;
     border-radius: 2vh;
     text-align: center;
@@ -210,4 +210,5 @@ footer div {
     .index_2 {
         width: 30%;
     }
+
 }
